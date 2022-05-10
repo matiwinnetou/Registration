@@ -4832,5 +4832,19 @@
     "telegram": "Your_ADA_Moon",                                          
     "operatorName": "Alex, Devin",                                   
     "github": "arichard5" 
+ },
+ {
+    "ticker": "CRFA",                                                       
+    "poolId": "6c518b4861bb88b1395ceb116342cecbcfb8736282655f9a61c4c368", 
+    "social": {                                                            
+      "twitter": "matiwinnetou",
+      "website": "https://cardano.fans",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "matiwinnetou",                                          
+    "operatorName": "Cardano Fans",                                   
+    "github": "Cardano-Fans" 
  }
 ]
